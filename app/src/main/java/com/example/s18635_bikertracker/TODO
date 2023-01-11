@@ -1,0 +1,22 @@
+
+
+MOZE TODO:
+    bug: po przelogowaniu ekran glowny jeszcze chwile pokazuje piny poprzedniego uzytkownika
+
+
+    dodanie zdjecia podczas trasy (asynchroniczne bo lag na 3sek jest po dodaniu)
+    dodanie lini przejechanej aktualnie trasy (glowny ekran nei widac gdzie bylismy ale w historii jest)
+    historia pokazanie ze najnowzsza trasa jest w "trakcie"
+
+    wiecej asynchronicznosci by mniejszy lag byl
+
+    poprawka mapy przycisku kompasu i aktualna pozycja (nie rewrite)
+
+    historia ... przebyta droga? srednia predkosc? zrobione zdjecia?
+
+    sync zdjec do firebase-a??
+
+    animacje przejscia i poprawa UI
+
+    room na full firebase??
+

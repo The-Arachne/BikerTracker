@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479339260778",
+    "firebase_url": "https://bikertracker-c1696-default-rtdb.firebaseio.com",
+    "project_id": "bikertracker-c1696",
+    "storage_bucket": "bikertracker-c1696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479339260778:android:b73fbb130a2ffb73e79313",
+        "android_client_info": {
+          "package_name": "com.example.s18635_bikertracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479339260778-er9bi5lna0aqsdhd6f92mqet7brkkqa9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsPIr5LvSk5_6Q3W2Vv-PBD3Ewgw2LPKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479339260778-er9bi5lna0aqsdhd6f92mqet7brkkqa9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
